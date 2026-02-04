@@ -41,9 +41,8 @@ pip install git+https://github.com/openai/CLIP.git
 pip install ipykernel
 ```
 
-\
-\
+
 **Contact**
 
 If you have any questions or comments, please contact [Zhenxiang Lin](mailito:z25.lin@qut.edu.au).
-\
+
